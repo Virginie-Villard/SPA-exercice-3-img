@@ -1,0 +1,24 @@
+{
+  "name": "SPA-exercice-3-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virginie-Villard/SPA-exercice-3-img.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virginie-Villard/SPA-exercice-3-img/issues"
+  },
+  "homepage": "https://github.com/Virginie-Villard/SPA-exercice-3-img#readme",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
